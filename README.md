@@ -1,6 +1,6 @@
 # My-1st-year-DS-project 
 A simple time series prediction model
-/br
+</br>
 Topic- Forecasting Food and Fuel Price Movements in the Colombo Market
-/br
+</br>
 Model used- ARIMA
